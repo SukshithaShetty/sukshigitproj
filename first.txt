@@ -1,2 +1,4 @@
 this is first git proj
-This is second line
+This is second line test word
+:wq!
+
